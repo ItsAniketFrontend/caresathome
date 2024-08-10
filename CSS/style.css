@@ -199,4 +199,32 @@ nav button:hover {
 footer .foot {
   padding: 50px 0px;
   background-color: #00C5B3;
+}
+footer .foot p {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  line-height: 21px;
+  font-size: 14px !important;
+  color: #fff;
+  font-style: normal;
+}
+footer .foot li {
+  list-style: none;
+}
+footer .foot a {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 16px !important;
+  color: #fff;
+  font-style: normal;
+}
+footer .foot h3 {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 600;
+  line-height: 24px;
+  font-size: 20px !important;
+  color: #fff;
+  font-style: normal;
 }/*# sourceMappingURL=style.css.map */
