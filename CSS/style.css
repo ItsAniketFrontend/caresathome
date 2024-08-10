@@ -1,0 +1,202 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+nav .nav-link {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 16px !important;
+  color: #000;
+  font-style: normal;
+}
+nav button {
+  border: 1px solid #0DC8B7;
+  background: none;
+  padding: 5px 18px;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 16px !important;
+  color: #0DC8B7;
+  font-style: normal;
+  transition: all 100ms ease-in-out;
+}
+nav button:hover {
+  background-color: #0DC8B7;
+  color: #fff;
+}
+
+.banner .form-box {
+  background: #0DC8B7;
+  padding: 20px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.banner .form-box h3 {
+  font-size: 28px;
+  font-style: normal;
+  color: #000;
+  line-height: 34px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif !important;
+}
+.banner .form-box input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  color: #000;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif !important;
+}
+.banner .form-box select {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  color: #000;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif !important;
+}
+.banner .form-box textarea {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  color: #000;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif !important;
+}
+.banner .form-box button {
+  background-color: #fff;
+  padding: 5px 20px;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border: none;
+  font-family: "Poppins", sans-serif !important;
+  color: #0DC8B7;
+}
+
+.services {
+  padding: 80px 0px;
+  background: #E4FAF9;
+}
+.services h2 {
+  font-size: 20px;
+  font-style: normal;
+  color: #00C5B3;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif !important;
+}
+.services p {
+  font-size: 16px;
+  font-style: normal;
+  color: rgb(106, 106, 106);
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif !important;
+}
+.services .col-box {
+  background: #fff;
+  height: 100%;
+  padding: 14px;
+}
+.services .col-box h3 {
+  font-size: 20px;
+  font-style: normal;
+  color: #000;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.about-us {
+  padding: 80px 0px;
+}
+.about-us h6 {
+  font-size: 16px;
+  font-style: normal;
+  color: rgb(0, 197, 179);
+  line-height: 24px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif !important;
+}
+.about-us h2 {
+  font-size: 28px;
+  font-style: normal;
+  color: #000;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif !important;
+}
+.about-us p {
+  font-size: 16px;
+  font-style: normal;
+  color: #212529;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif !important;
+}
+.about-us button {
+  border: 1px solid #0DC8B7;
+  background: none;
+  padding: 5px 18px;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 16px !important;
+  color: #0DC8B7;
+  font-style: normal;
+  transition: all 100ms ease-in-out;
+}
+.about-us button:hover {
+  background-color: #0DC8B7;
+  color: #fff;
+}
+
+.testimonials {
+  padding: 80px 0px;
+  background-color: #E4FAF9;
+}
+.testimonials h5 {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 600;
+  line-height: 26px;
+  font-size: 22px !important;
+  color: #000;
+  font-style: normal;
+}
+.testimonials p {
+  font-size: 16px;
+  color: #212529;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 24px;
+}
+.testimonials h6 {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 400;
+  line-height: 19px;
+  font-size: 16px !important;
+  color: #000;
+  font-style: normal;
+}
+
+footer .foot {
+  padding: 50px 0px;
+  background-color: #00C5B3;
+}/*# sourceMappingURL=style.css.map */
